@@ -3,11 +3,11 @@ entries:
   eventapp-lab06:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2020-07-13T18:12:43.1174197+09:00"
+    created: "2020-07-13T18:28:55.8526871+09:00"
     description: A Helm chart for Kubernetes
     digest: d27b2a3ed214203e3da3c970ff2be05f12981dbe7f63a4a530f8f414bb0ed064
     name: eventapp-lab06
     urls:
-    - https://cloudclass1-lab06.github.io/mycharts/eventapp-lab06-0.1.0.tgz
+    - https://cloudclass-lab06.github.io/mycharts/eventapp-lab06-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-13T18:12:43.097913+09:00"
+generated: "2020-07-13T18:28:55.8141214+09:00"
